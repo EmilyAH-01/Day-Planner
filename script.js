@@ -1,5 +1,5 @@
 // script.js: Day Planner JavaScript
-// Emily Herman, HW 5, 10/14/2020
+// Emily Herman, MSU Bootcamp HW 5, 10/14/2020
 
 
 // Display current day at the top of the calendar using Moment.js library
