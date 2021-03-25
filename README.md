@@ -1,4 +1,4 @@
-# HW-5_Day-Planner
+# Day-Planner
 
 Emily Herman 
 | MSU Coding Bootcamp Homework 5 
