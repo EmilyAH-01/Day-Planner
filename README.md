@@ -5,7 +5,7 @@ This application uses the Moment.js library to pull the current date and time; t
 
 This app runs in a browser and uses jQuery to dynamically update the HTML and CSS.
 
-![UI screenshot](assets/img/day_planner_12PM?raw=true)
+<img src="assets/img/dayplanner.png" alt="UI screenshot" width="600"/>
 
 ## Installation
 To download this code to your own machine, enter the following in your command line:
