@@ -1,6 +1,5 @@
-// script.js: Day Planner JavaScript
-// Emily Herman, MSU Bootcamp HW 5, 10/14/2020
-
+// Emily Herman
+// JavaScript for workday planner
 
 // Display current day at the top of the calendar using Moment.js library
 var date = moment().format("LL");

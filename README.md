@@ -1,4 +1,4 @@
-# Day-Planner
+# workday-planner
 
 Emily Herman 
 | MSU Coding Bootcamp Homework 5 
